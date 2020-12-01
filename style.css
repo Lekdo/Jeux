@@ -1,0 +1,66 @@
+body {
+	background-color: linen;
+}
+
+h1 {
+	background-color: MediumSeaGreen;
+	text-align: center;
+	border-style: solid;
+}
+
+p1 {
+	font-size: 25px;
+}
+
+table {
+	width: 100%;
+	border-collapse: collapse;
+}
+
+#MinecraftIndex {
+	width: 50%;
+	border-style: solid;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#Minecraft {
+	width: 30%;
+	border-style: solid;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#DofusIndex {
+	width: 50%;
+	border-style: solid;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#Dofus {
+	width: 35%;
+	border-style: solid;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#RocketLeagueIndex {
+	width: 100%;
+	border-style: solid;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+#RocketLeague {
+	width: 50%;
+	border-style: solid;
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
